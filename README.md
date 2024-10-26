@@ -1,17 +1,17 @@
 # Sample_WR_Mod
-This is a temporary sample mod to get people started in WR
+This is a temporary sample mod to get people started in WR Modding
 
-1.) Make sure both options are checked in WR Launcher Mod Template
+Prerequisites:
+- WR Launcher
+- VSCode
+- Luau Language Server, by JohnnyMoganz
+
+1.) Make a mod template in WR Launcher and enable:
 
 - Official WR Experience Mod
 - Enable Workspace
 
-2.) If inside of `Documents/Warsaw Revamped/Mod Toolkit/API Definitions` you do not have
-- wr-core.d.luau
-- wr-gen.d.luau
-- wr-managers.d.luau
-
-Run your server template once. It will download the required files.
+2.) Run your server once to make sure above worked. You should see "Created script state for wr-official" near the top.
 
 2.) Copy `wr_official` from this repository into `Documents/Warsaw Revamped/Mods`
 
