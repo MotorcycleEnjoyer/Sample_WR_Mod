@@ -10,6 +10,7 @@ This is a temporary sample mod to get people started in WR
 - wr-core.d.luau
 - wr-gen.d.luau
 - wr-managers.d.luau
+
 Run your server template once. It will download the required files.
 
 2.) Copy `wr_official` from this repository into `Documents/Warsaw Revamped/Mods`
