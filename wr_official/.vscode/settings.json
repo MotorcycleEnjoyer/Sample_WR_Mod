@@ -1,0 +1,18 @@
+{
+  "luau-lsp.completion.autocompleteEnd": true,
+  "luau-lsp.completion.imports.requireStyle": "alwaysRelative",
+  "luau-lsp.require.directoryAliases": {
+    ".": "C:\\Users\\YOUR_USER_HERE\\Documents\\Warsaw Revamped\\Package Cache"
+  },
+  "luau-lsp.require.mode": "relativeToFile",
+  "luau-lsp.types.definitionFiles": [
+    "C:\\Users\\YOUR_USER_HERE\\Documents\\Warsaw Revamped\\Mod Toolkit\\API Definitions\\wr-core.d.luau",
+    "C:\\Users\\YOUR_USER_HERE\\Documents\\Warsaw Revamped\\Mod Toolkit\\API Definitions\\wr-gen.d.luau",
+    "C:\\Users\\YOUR_USER_HERE\\Documents\\Warsaw Revamped\\Mod Toolkit\\API Definitions\\wr-managers.d.luau"
+  ],
+  "luau-lsp.platform.type": "standard",
+  "luau-lsp.inlayHints.functionReturnTypes": true,
+  "luau-lsp.inlayHints.parameterNames": "all",
+  "luau-lsp.inlayHints.parameterTypes": true,
+  "luau-lsp.inlayHints.variableTypes": true
+}
