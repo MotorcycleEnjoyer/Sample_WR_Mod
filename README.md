@@ -8,12 +8,12 @@ Prerequisites:
 
 --------------------------------------------------------
 
-1.) Make a mod template in WR Launcher and enable:
+1.) Make a server template in WR Launcher and enable:
 
 - Official WR Experience Mod
 - Enable Workspace
 
-2.) Run your server once to make sure above worked. You should see "Created script state for wr-official" near the top.
+2.) Run your server once to make sure above worked. You should see "Created script state for wr-official" near the top of the server log.
 
 3.) Copy `wr_official` from this repository into `Documents/Warsaw Revamped/Mods`
 
