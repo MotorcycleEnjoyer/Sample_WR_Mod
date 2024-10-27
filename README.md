@@ -22,3 +22,5 @@ Prerequisites:
 5.) In `Documents/Warsaw Revamped/Package Cache`, make sure you have an extracted partitions folder. 
 
 If you do not have one: extract `partitions-0.1.zip` and rename the extracted folder to `partitions`
+
+6.) Open the `wr_official` folder with vscode. If you open just a file it will not give highlighting or suggestions.
