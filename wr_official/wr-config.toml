@@ -1,9 +1,9 @@
 [script]
 name = "wr_official"
 version = "0.1.0"
-author_ids = ["MotorcycleEnjoyer"]
-description = "Help people get started easier"
-repository = "https://github.com/MotorcycleEnjoyer/Sample_WR_Mod.git"
+author_ids = ["YourName"]
+description = "YourDescription"
+repository = "https://youNeedAtLeastOneLetterHere"
 tags = ["official", "wr"]
 
 [dependencies]
